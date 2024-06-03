@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 name = 'pre_commit_merge_content_hooks'
-version = '1.0.0'
+version = '1.0.1'
 description = 'pre-commit hooks for merging content from different files to one'
 
 # Package dependencies
